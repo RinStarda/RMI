@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+D:\study\分布式系统\RPC\RMI_JDBC\.metadata\.plugins\org.eclipse.jdt.core
+3502279169.index
+502331072.index
